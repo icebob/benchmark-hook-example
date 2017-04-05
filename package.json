@@ -11,13 +11,13 @@
     "url": "git+https://github.com/icebob/benchmark-hook-example.git"
   },
   "keywords": [],
-  "author": "Ice Services",
+  "author": "Icebob",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/icebob/benchmark-hook-example/issues"
   },
   "homepage": "https://github.com/icebob/benchmark-hook-example#readme",
   "dependencies": {
-    "benchmarkify": "1.2.0"
+    "benchmarkify": "1.3.0"
   }
 }
