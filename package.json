@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/icebob/benchmark-hook-example#readme",
   "dependencies": {
-    "benchmarkify": "1.1.0"
+    "benchmarkify": "1.2.0"
   }
 }
