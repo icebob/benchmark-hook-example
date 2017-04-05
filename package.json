@@ -1,0 +1,23 @@
+{
+  "name": "benchmark-hook-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bench": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icebob/benchmark-hook-example.git"
+  },
+  "keywords": [],
+  "author": "Ice Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icebob/benchmark-hook-example/issues"
+  },
+  "homepage": "https://github.com/icebob/benchmark-hook-example#readme",
+  "dependencies": {
+    "benchmarkify": "1.1.0"
+  }
+}
