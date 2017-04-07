@@ -16,4 +16,4 @@ module.exports = {
 			s.push("test" + i);
 		return s.join();
 	}
-}
+};
