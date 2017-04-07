@@ -33,4 +33,7 @@ bench2.add("Increment with = i + 1", () => {
 	i3 = i3 + 1;
 });
 
-module.exports = benchmark.run([bench1, bench2]);
+module.exports = benchmark.run([bench1, bench2]).then(res => {
+	console.log(JSON.stringify(res, null, 2));
+	return res;
+});
